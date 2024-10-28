@@ -1,0 +1,72 @@
+<!DOCTYPE html> <!-- always include the Doctype Immediately. -->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name = "viewport" content="width=device width, initial-scale-1.0" >
+        <title> Brian's Website </title>
+        <link rel="icon" type="image/jpg" href="FatCat.jpg">
+        <link rel="stylesheet" href="Homework #1.css">
+    </head>    
+
+<body> 
+<p>Brian Sanchez</p>        
+<p>Currently a Student in UWGB</p>  
+<a href="https://www.linkedin.com/in/brian-sanchez-5754731aa">Click here to visit my linked in profile!</a>  <br>   <!-- Personal Linked In Link!!! -->
+<a href="https://www.uwgb.edu/">Click here to Visit My College Website!</a> <br>    <!-- College Website for visitors to visit where I'm from! -->
+<p> Here is a picture of my favorite Fat Cat from Google. &#128512; </p> <!-- Here is me adding my special character/ emoji for the homework. -->
+<img src="FatCat.jpg" width="800" height="600"> <!-- Here is the Image I decided to upload. I've included a limit for the width and height. -->
+</body> <!-- End  of first body -->
+
+<body>
+<table>     <!-- Here's my example of my table with no border! -->
+<thead>
+    <tr>
+<th>The Above Cat is Kind of Chubby.</th>
+</tr>
+<tr>
+<th> Is it a female or male Cat? </th>
+</tr>
+<tr>
+<th>Not really sure anymore!</th>
+</tr>
+</thead>
+</table>    <!-- end of my table with no border! -->
+</body>
+
+<body>   <!-- Here's my table with Borders! -->
+<table>
+    <tr bgcolor="cyan">
+        <td>I</td>
+        <td>Don't</td>
+        <td>Like</td>
+        <td>This</td>
+        <td>Cat!</td>
+    </tr>
+
+</table> <!-- Here's my table with Borders! -->
+</body>
+
+
+<body>
+<h1>About Me! </h1>
+<p>I'm passionate about learning as much as I can about the Computer Science field, especially anything relating to software engineering. I'm looking forward to learning more and remaining coachable.</p><br>
+<p> Below you can find some of my Interests! </p>
+
+<!-- Start of Ordered List!!! -->
+ <h2> What I would like to improve upon in Computer Science </h2>
+<ol>
+    <li>Overall Knowledge of the Software Engineering Aspect of Computer Science. </li>
+    <li>Learning more about machine learning and AI. </li>
+    <li>Learning more about Cloud Based Services, as well as learning it's risks and benefits. </li>
+</ol>
+
+<!-- Start of Unordered List!!! -->
+ <h3> What are some of my favorite sports/Leisure Activities! </h3>
+<ul>
+    <li>I love to weightlift whenever I can.</li>
+    <li>I love playing Futbol (Soccer) whenever I get the chance.</li>
+    <li>I like to game from time to time when I have free time. </li>   
+</ul>
+</body>
+
+</html>
